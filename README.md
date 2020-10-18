@@ -1,8 +1,9 @@
+Primeval Real Estate: A Skyrim Quest
+
 ===================================================
 Version: 1.0.0
 Date: 10/17/2020
 ===================================================
-Primeval Real Estate: A Skyrim Quest
 
 Authors: Arctos Games (Dan Forziat, Dylan Beal)
 
@@ -18,7 +19,8 @@ Install Instructions
 ===================================================
 Credits:
 
-Stigur/Lich - Leo Benus
-Gundar - Dylan Beal
-Quest Narrative / Dialogue - Ian Gregory
-Development - Dan Forziat, Dylan Beal
+Created by - Dan Forziat, Dylan Beal
+Writer - Ian Gregory (@fissionmale)
+Stigur/Lich - Leo Benus (@LeoVoiceActing)
+Gundar - Dylan Beal (@Beal4Real)
+E-mail - ContactArctosGames@gmail.com
